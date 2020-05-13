@@ -7,9 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace maxxgalindo\api_ventes;
-
-include 'ventes.php';
+require 'ventes.php';
 
 class ApiVentes{
 
