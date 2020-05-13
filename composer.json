@@ -1,5 +1,14 @@
 {
+    "name": "maxxgalindo/api_ventes",
+    "description": "This is a sales data API",
+    "type": "composer-plugin",
+    "license": "mit",
+    "minimum-stability": "dev",
     "require": {
         "fzaninotto/faker": "^1.9"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "maxxgalindo\\api_ventes\\": "src/"
+        }
 }
