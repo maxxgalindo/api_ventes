@@ -11,4 +11,5 @@
         "psr-4": {
             "maxxgalindo\\api_ventes\\": "src/"
         }
+    }
 }
