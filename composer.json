@@ -3,7 +3,7 @@
     "description": "This is a sales data API",
     "type": "composer-plugin",
     "license": "mit",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "require": {
         "fzaninotto/faker": "^1.9"
     },
